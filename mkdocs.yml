@@ -3,3 +3,4 @@ site_name: TransferWiki
 nav:
   - 首页: index.md
   - 前言: intro.md
+  - 转学的利与弊: think.md
