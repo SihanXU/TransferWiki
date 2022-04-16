@@ -19,23 +19,25 @@
 ***
 
 ## 常选的学校
-### umich
+
+### University of Michigan, Ann Arbor
 
 ***
 
-### uiuc
+### University of Illinois Urbana-Champaign
 
 ***
 
-### wisc
+### University of Wisconsin-Madison
 
 ***
 
-### osu
+### The Ohio State University
 
 ***
 
-### umn
+### University of Minnesota Twin Cities
+
 明尼苏达双城umn经常被人和osu相提并论，作为主申和保底的学校之一，但是许多人或许因为它的综排不到usnews top50而没有去细细关注。其实它的各个学科排名在综排50至70的学校里是非常突出的。明尼苏达双城的具体优势有以下几点：
 - 网站设计流畅，反应迅速。各种信息都写的十分清楚。
 - 文书和软背景选填，如果你不愿意再花时间，实际上完全可以不用填。不需要初高中的任何材料，并且认可大学教务处直接以电邮的方式发送成绩。结合１来看，大部分人一至两个小时之内可以搞定申请的填报。
