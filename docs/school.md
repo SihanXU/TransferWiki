@@ -26,15 +26,9 @@
 
 ### University of Illinois Urbana-Champaign (UIUC)
 
-***
-
 ### University of Wisconsin-Madison (UWisc, UW-Madison)
 
-***
-
 ### The Ohio State University (OSU)
-
-***
 
 ### University of Minnesota Twin Cities (UMN)
 
@@ -56,6 +50,7 @@
 [具体的校园可以观看此视频。](https://www.bilibili.com/video/BV1J4411m7zy?spm_id_from=333.999.0.0)这位up主在明尼苏达生活超过7年，[她的空间也分享了各种关于明尼苏达和明尼苏达双城的视频。](https://space.bilibili.com/337678006)
 
 ### University of Pittsburgh (UPitt)
+
 1. 秋季转学截止日期较迟—-7.1（2022年数据）
 
 2. 文书要求简单，篇幅较短，适合DIY选手
