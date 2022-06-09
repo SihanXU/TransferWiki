@@ -28,6 +28,9 @@
 
 ### University of Wisconsin-Madison (UWisc, UW-Madison)
 
+### University of North Carolina (UNC)
+北卡，众多篮球迷的女神校，校园风景优美，因为“北卡蓝”和“乔丹母校”为人所知。从过往陆本学生申请数据来看，UNC的转学录取率较高，但在2022fall中，录取难度明显增加。UNC同样作为一所top30的学校，学术实力较强。但文科相对更加强势，且UNC不设工学院，所以如果是明确想学习CS之类专业的同学，需要三思。
+
 ### The Ohio State University (OSU)
 
 ### University of Minnesota Twin Cities (UMN)
