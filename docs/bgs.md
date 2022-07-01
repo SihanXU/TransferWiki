@@ -64,6 +64,7 @@
 
 - GPA: 4.0（大一）3.98（大一&大二上）
 - 语言成绩: 雅思8
+- 专业:econ&fin 经济与金融
 - 选校:nyu econ, uiuc econ, umn econ
 - 就读学校: 西交利物浦大学
 - 课外活动:律所跨境贸易实习；国泰君安投行实习；商业分析与财务建模训练营；一段商赛；若干校内社团；若干志愿者经历
@@ -72,6 +73,20 @@
 - 录取结果：uiuc umn
 - 最后去向：uiuc
 - 建议：商科转学生可以到uiuc-econ后选择相关课程转专业到stem专业econometrics and quantitative economics; 可辅修math/CS有助申研和就业
-- 附:更详细的转学经历戳:https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA,https://mp.weixin.qq.com/s/oCb_urW7uxJXfQ6jd_vRjw
+- 附:更详细的转学经历戳:https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA
+
+***
+
+## Terry
+- GPA：8.3/10~3.7/4
+- 语言成绩：多邻国125
+- 专业:cs
+- 就读学校：uottawa
+- 课外活动：0活动
+- 推荐信：大一两门a+课（线代和微积分）的教授平推
+- 选校：umich(undecided) wisc(undecided) umn(CLA-CS) osu(CAS-CIS)
+- 录取结果：umn osu
+- 最后去向：osu
+- 建议：大家秋转可以多申点学校免得像我后悔申的太少，purdue的计算机类专业（web design/game dev）和upitt都是值得一申的学校
 
 ***
