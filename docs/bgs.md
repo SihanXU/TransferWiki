@@ -44,8 +44,8 @@
 - 录取结果：uiuc umn
 - 最后去向：uiuc
 - 建议：商科转学生可以到uiuc-econ后选择相关课程转专业到stem专业econometrics and quantitative economics; 可辅修math/CS有助申研和就业
-- 附:更详细的转学经历戳:https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA  (part1)
-- 以及:https://mp.weixin.qq.com/s/oCb_urW7uxJXfQ6jd_vRjw   (part2)
+- 附:更详细的转学经历戳:  [Part1](https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA)
+- 以及:   [Part2](https://mp.weixin.qq.com/s/oCb_urW7uxJXfQ6jd_vRjw)
 
 ***
 
