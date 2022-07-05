@@ -24,7 +24,7 @@
 | 20 |   |   |   |   |   |   |
 | 21 |   |   |   |   |   |   |
 | 22 |   |   |   |   |   |   |
-| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [26](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [密歇根大学安娜堡分校](/school/umich) | 4942 | 2051 | 41.5% | $53,232 |
+| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [26](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [密歇根大学安娜堡分校](/schools/umich) | 4942 | 2051 | 41.5% | $53,232 |
 | 24 |   |   |   |   |   |   |
 | 25 |   |   |   |   |   |   |
 | 26 |   |   |   |   |   |   |
