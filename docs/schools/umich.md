@@ -4,6 +4,37 @@
 
 学校位于美国密歇根州安娜堡市。这座城市文化底蕴丰厚，艺术文化活动不断，经常有各类戏剧表演、文学讲座和音乐会等，极大的丰富了在校学生的课余生活。密歇根大学安娜堡分校共有19个学院，下设200多个专业，包括文科、理科、工程、商科、医学、法学、教育学、艺术类等各个类别，其医学院排名前3，商业管理学院、建筑设计学院、牙医学院、法学院、公共卫生学院及社会工作学院均列美国高校同类学院的前5位，工程技术学院和教育学院都排在全美前10名，密西根大学几乎所有专业都在前20名，其中一共有100个专业排在前十名，热门专业包括商学、工程、医学、护理、法律、公共事务、心理学、社会学和历史等许多学科。密歇根大学安娜堡分校的本科课程几乎涵盖了所有的学科领域，是美国课程设置最丰富的大学之一。
 
+## 学校排名
+
+| USNEWS | 上海软科 | QS | THE | CSRanking2021 |
+| --- | --- | --- | --- | ---|
+| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [26](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [25](https://www.topuniversities.com/universities/university-michigan-ann-arbor) | [24](https://www.timeshighereducation.com/world-university-rankings/university-michigan-ann-arbor) | 5 |
+
+## 申请材料
+
+[Requirements & Deadlines](https://admissions.umich.edu/apply/transfer-applicants/requirements-deadlines)
+
+1. 完成[Common Application](https://apply.commonapp.org/)的申请，提交75美元的申请费。
+2. 高中毕业证明，高中成绩单。
+3. 高等教育机构官方成绩单，通过纸质寄送或者通过第三方服务发送到transcripts@umich.edu。密歇根大学不接受由申请者自己发送的成绩单。（所有成绩单上的W，I或Gap都需要在Common App中的“additional information”解释）
+4. 现在在读和未来将读的课程列表（针对还没有取得成绩的课程）。
+5. 语言成绩：TOEFL，IELTS，MET，Doulingo，etc。可选：ACT/SAT（只有高中参加的成绩有效）。申请者可以自己报告考试的成绩。
+6. 除非要求，否则可以选择提交：Academic Evaluator（学业评估）/Instructor recommendation（推荐信）, college report（学校报告）, and midyear report（期中报告）
+
+## 重要日期
+
+OCT 1 - 冬季学期申请截止日期
+
+DEC 1 - School of Music, Theatre & Dance申请截止日期
+
+DEC 15 - Suggested Financial Aid Filing Date for Fall Transfer Students
+
+FEB 1 - 秋季学期，春季小学期，夏季小学期申请截止日期
+
+MAR 31 - Financial Aid Deadline for All Incoming Students
+
+MAY 1 - 秋季学期占位费截至日期
+
 ## 录取侧重
 
 | 项目 | 重要程度（Very Import/Important/Considered/Not Considered) |
