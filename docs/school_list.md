@@ -43,7 +43,7 @@
 | 39 |   |   |   |   |   |   |
 | 40 |   |   |   |   |   |   |
 | 41 |   |   |   |   |   |   |
-| 42 |   |   |   |   |   |   |
+| [42](https://www.usnews.com/best-colleges/university-of-wisconsin-3895) | [31](https://www.shanghairanking.com/institution/university-of-wisconsin-madison)  | [威斯康星大学-麦迪逊](/schools/wisc)  |  3528 |  2075 | 58.8%  | $38,608  |
 | 43 |   |   |   |   |   |   |
 | 44 |   |   |   |   |   |   |
 | 45 |   |   |   |   |   |   |
