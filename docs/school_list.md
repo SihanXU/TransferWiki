@@ -50,7 +50,7 @@
 | 46 |   |   |   |   |   |   |
 | 47 |   |   |   |   |   |   |
 | 48 |   |   |   |   |   |   |
-| 49 |   |   |   |   |   |   |
+| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [ 普渡大学](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
 | 50 |   |   |   |   |   |   |
 | 51 |   |   |   |   |   |   |
 | 52 |   |   |   |   |   |   |
