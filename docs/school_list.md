@@ -7,7 +7,7 @@
 | 3 |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |
+| [6](https://www.usnews.com/best-colleges/stanford-university-1305) | [2](https://www.shanghairanking.com/institution/stanford-university) | [斯坦福大学](/schools/stanford) | 3265 | 55 | 1.7% | $56,169 |
 | 7 |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |
 | 9 |   |   |   |   |   |   |
