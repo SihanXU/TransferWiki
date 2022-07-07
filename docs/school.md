@@ -39,7 +39,7 @@
 
 ***
 
-### University of Illinois Urbana-Champaign (UIUC)
+### [University of Illinois Urbana-Champaign (UIUC)] (/schools/uiuc)
 伊利诺伊香槟大学以cs专业而著名，一般来说能转学录取的是文理学院的cs+ major。因为所有人都想去工程学院的cs，所以对于我们这样的海外转学生是根本不可能的了。比如很多人选的cs+math和cs+stat。请注意cs+math是一个专业，正式的名字叫math&computer science，而非两个专业double major。此外还有cs+天文，cs+音乐，cs+广告等等专业。而非cs+专业的学生想转到cs+专业，需要在五个学期之内进行申请，完成文书和考试。
 
 ***
@@ -49,7 +49,7 @@
 
 ***
 
-### The Ohio State University (OSU)
+### [The Ohio State University (OSU)](/schools/osu)
 俄亥俄州立大学，是为数不多有希望转入工程学院的大学，同时也是许多人主要申请和保底的学校之一。
 
 但是请注意OSU存在对成绩单误判的情况，申请者“超级霸王龙”曾申请此校被拒，问及原因是认为此人的GPA仅为2.0/4.0左右，未得到确定的误判原因，怀疑是由于AO将中外合作的英制均分换算错误。最终进行申诉的时候被告知“很遗憾，国际生录取已经结束”。同时根据此申请者的经验来看，osu的ao曾明确指出osu的transfer录取不考察活动等方面。
