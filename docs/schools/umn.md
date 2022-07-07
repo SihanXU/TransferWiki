@@ -67,4 +67,5 @@ For transfer applicants with fewer than 26 transferable college credits complete
 ## 其他注意事项
 
 对于宁诺的同学来说，UMN不认可宁诺大一的学分，可转学分较少。
+语言分数不够同样可以予以考虑，若是语言分数不合格也可以大胆尝试。
 
