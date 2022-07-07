@@ -69,7 +69,7 @@
 | 65 |   |   |   |   |   |   |
 | 66 |   |   |   |   |   |   |
 | 67 |   |   |   |   |   |   |
-| 68 |   |   |   |   |   |   |
+| [68](https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969) | [40](https://www.shanghairanking.com/institution/university-of-minnesota-twin-cities)  | [明尼苏达大学双城分校](/schools/umn)  | 5068 | 2778 | 54.8% | $34986 |
 | 69 |   |   |   |   |   |   |
 | 70 |   |   |   |   |   |   |
 | 71 |   |   |   |   |   |   |
