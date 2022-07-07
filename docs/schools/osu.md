@@ -16,7 +16,7 @@
 
 1.Official transcripts
 
-*2.(Additional requirements if you have earned fewer than 30 semester (45 quarter) hours (earned post high school graduation))
+2*.(Additional requirements if you have earned fewer than 30 semester (45 quarter) hours (earned post high school graduation))
 
      High school transcripts 
      
