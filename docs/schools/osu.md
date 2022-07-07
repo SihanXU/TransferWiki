@@ -12,6 +12,29 @@
 
 ## 申请材料
 
+[Requirements & Deadlines](http://undergrad.osu.edu/apply/transfer/apply-step-by-step#collapseTRDead)
+
+1.Official transcripts
+
+*2.(Additional requirements if you have earned fewer than 30 semester (45 quarter) hours (earned post high school graduation))
+
+     High school transcripts 
+     
+     Official ACT or SAT scores
+     
+3.Additional test scores
+
+     TOEFL (internet-based test or internet-based test Home Edition*): 79 or higher
+     
+     IELTS or IELTS Indicator*: 6.5 or higher
+     
+     ACT: 21 or higher on the English section
+     
+     SAT: 27 or higher on the Reading Test
+     
+     Duolingo*: 105 or higher
+     
+    
 
 
 
@@ -23,8 +46,14 @@
 
 ## 重要日期
 
+| | 春季 | 夏季 | 秋季 |
+|---|---|---|---|
+|申请截止日期| Nov. 1, 2021 | March 15, 2022 | May 20, 2022 |
+|财产援助的优先日期| Feb. 1, 2021 | Feb. 1, 2022 | Feb. 1, 2022 |
+|录取费截止日期 | See your Acceptance Fee Statement | See your Acceptance Fee Statement | See your Acceptance Fee Statement |
 
-
+(以上数据源于2022) 
+参考链接: [Apply step-by-step](http://undergrad.osu.edu/apply/transfer/apply-step-by-step#collapseTRDead)
 
 
 
@@ -37,9 +66,7 @@
 
 
 ## 录取侧重
-
-
-
+从申请结果来看，申请文理学院的GPA要求较低，其次是工程学院，Fisher学院大陆地区几乎无法转入(需满足prerequisite要求)。
 
 
 
@@ -63,7 +90,7 @@
 | 女生 | 2058 | 1819 | 1078|
 | **总共** | 4266 | 3731 | 2158 |
 
-
+参考材料：[Common Data Set](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/columbus/CDS_2020-2021_Columbus.pdf)
 
 
 
