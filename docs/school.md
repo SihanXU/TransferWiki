@@ -56,7 +56,7 @@
 
 ***
 
-### University of Minnesota Twin Cities (UMN)
+### [University of Minnesota Twin Cities (UMN)](/schools/umn)
 
 明尼苏达双城UMN经常被人和OSU相提并论，作为主申和保底的学校之一，但是许多人或许因为它的综排不到USNEWS TOP50而没有去细细关注。其实它的各个学科排名在综排50至70的学校里是非常突出的。明尼苏达双城的具体优势有以下几点：
 
