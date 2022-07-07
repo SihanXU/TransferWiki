@@ -39,7 +39,7 @@
 
 ***
 
-### [University of Illinois Urbana-Champaign (UIUC)] (/schools/uiuc)
+### [University of Illinois Urbana-Champaign (UIUC)](/schools/uiuc)
 伊利诺伊香槟大学以cs专业而著名，一般来说能转学录取的是文理学院的cs+ major。因为所有人都想去工程学院的cs，所以对于我们这样的海外转学生是根本不可能的了。比如很多人选的cs+math和cs+stat。请注意cs+math是一个专业，正式的名字叫math&computer science，而非两个专业double major。此外还有cs+天文，cs+音乐，cs+广告等等专业。而非cs+专业的学生想转到cs+专业，需要在五个学期之内进行申请，完成文书和考试。
 
 ***
@@ -113,4 +113,4 @@ UTA位处德州奥斯汀，机会众多，且工科和会计学优秀；但根�
 
 5. 普度大学的选课十分宽松，但是对于陆本的转学分并不友好。在入学之后可以尝试通过暑校等方式弥补。
 
-同时，普渡大学的学费也是一大优势，生活成本极低。2b2b的公寓在一千五百刀左右，食堂的一餐在12刀左右，学费连续11年冻结为31500刀
+同时，普渡大学的学费也是一大优势，基础学费连续11年冻结为31500刀
