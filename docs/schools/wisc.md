@@ -8,7 +8,7 @@
 
 | USNEWS | 上海软科 | QS | THE | CSRankings2021 |
 | --- | --- | --- | --- | ---|
-| [42](https://www.usnews.com/best-colleges/university-of-wisconsin-3895) | [31](https://www.shanghairanking.com/institution/university-of-wisconsin-madison) | [25](https://www.topuniversities.com/universities/university-wisconsin-madison) | [24](https://www.timeshighereducation.com/world-university-rankings/university-wisconsin-madison) | 12 |
+| [42](https://www.usnews.com/best-colleges/university-of-wisconsin-3895) | [31](https://www.shanghairanking.com/institution/university-of-wisconsin-madison) | [83](https://www.topuniversities.com/universities/university-wisconsin-madison) | [58](https://www.timeshighereducation.com/world-university-rankings/university-wisconsin-madison) | 12 |
 
 ## 申请材料
 
