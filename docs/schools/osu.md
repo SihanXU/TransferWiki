@@ -16,23 +16,23 @@
 
 1.Official transcripts
 
-2*.(Additional requirements if you have earned fewer than 30 semester (45 quarter) hours (earned post high school graduation))
-
-     High school transcripts 
+2*.Additional requirements if you have earned fewer than 30 semester (45 quarter) hours (earned post high school graduation):
      
-     Official ACT or SAT scores
+    High school transcripts 
      
-3.Additional test scores
-
-     TOEFL (internet-based test or internet-based test Home Edition*): 79 or higher
+    Official ACT or SAT scores
      
-     IELTS or IELTS Indicator*: 6.5 or higher
+3.Additional test scores:
      
-     ACT: 21 or higher on the English section
+    TOEFL (internet-based test or internet-based test Home Edition*): 79 or higher
      
-     SAT: 27 or higher on the Reading Test
+    IELTS or IELTS Indicator*: 6.5 or higher
      
-     Duolingo*: 105 or higher
+    ACT: 21 or higher on the English section
+     
+    SAT: 27 or higher on the Reading Test
+     
+    Duolingo*: 105 or higher
      
     
 
