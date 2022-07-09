@@ -40,7 +40,7 @@ Notification of admission decisions will vary depending on the college and major
 
 ## 录取侧重
 
-从录取结果来看，GPA和课外活动同等重要，其次是文书，最后则是推荐信与语言。通常只有技术学院与博雅学院以及理学院招收转学生，总体来说录取难度不大且录取步骤简单，转学分也较为友好。
+从身边同学录取结果来看，22年秋季转学，uiuc文理学院的cs+专业非常难录取，22年秋季之前则不存在这样的状况。由于工院cs录取的可能性更加小，希望到uiuc学cs的学生基本都会申请cs+专业。cs+专业是指cs和另外一门融合，比如cs+math(官方名字math & computer science)和cs+stat(官方名字stat & computer science),cs+天文，cs+广告等等。而文理学院的其他专业则是相比较之下难度较低，比如math， stat。
 
 ## 转学录取
 
