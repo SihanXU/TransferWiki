@@ -19,7 +19,7 @@
 [UIUC Transfer Guide](https://blog.admissions.illinois.edu/how-to-transfer-to-illinois/)
 
 1.填写个人信息，完成文书，并且支付75美金申请费
-2.文理学院语言要求：托福100+/雅思6.5+/多邻国110+
+2.文理学院语言要求：托福80+/雅思6.5+/多邻国110+
 
 ## [重要日期](https://www.admissions.illinois.edu/apply/transfer/dates)
 
