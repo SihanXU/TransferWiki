@@ -56,8 +56,7 @@
 | 42 |   | 	凯斯西储大学 |   |   |   | $52,948 |
 | [47](https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775) | [55](https://www.shanghairanking.com/institution/university-of-illinois-at-urbana-champaign) | [伊利诺伊大学香槟分校](/schools/uiuc)  | 4245 | 2001  | 47.14%  |  $33,000  |
 | 48 |   | 佐治亚大学 |   |   |   | $31,120 |
-| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [
-普渡大学西拉法叶分校](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
+| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [普渡大学西拉法叶分校](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
 | [49](https://www.usnews.com/best-colleges/ohio-state-6883) |[100-150](https://www.shanghairanking.com/institution/the-ohio-state-university-columbus)   | [俄亥俄州立大学](/schools/osu) | 3853  | 3450  | 89.54%  | $36,698  |
 | 51 |   |   |   |   |   |   |
 | 52 |   |   |   |   |   |   |
