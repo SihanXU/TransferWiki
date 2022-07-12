@@ -212,5 +212,5 @@
 - 录取结果：UMich, UIUC, UPitt
 - 最后去向：UMich
 - 感想：密出的挺早的（2/4），但其他都让我等的好心酸哇，top20 transfer确实难度较大
-- 附:公众号一些浅浅的转学准备介绍:  [推文]([https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA](https://mp.weixin.qq.com/s/Vo9F7iBeE4q2A4A_gJatHw))
+- 附:公众号一些浅浅的转学准备介绍:  [推文](https://mp.weixin.qq.com/s/RzOZaalfIzPSV1TxVscJgA](https://mp.weixin.qq.com/s/Vo9F7iBeE4q2A4A_gJatHw)
  ***
