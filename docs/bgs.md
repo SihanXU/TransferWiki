@@ -200,3 +200,16 @@
 - 感想：top20近几年录取一点也不友好，真的是刮刮乐。
 
 ***
+## KD
+
+- GPA: 3.85/4.0
+- 语言成绩: 雅思7.5
+- 专业: Math
+- 选校: WashU, Cornell, UMich, NYU (CAS), UIUC, UNC, BU, UPitt
+- 就读学校: 宁波诺丁汉大学 UNNC
+- 课外活动: 两段校内research，都是打杂的；一段咨询实习
+- 推荐信：科研教授,学校关系好的任课老师（实名抵制上楼把chenfei拼错的家伙lol）
+- 录取结果：UMich, UIUC, UPitt
+- 最后去向：UMich
+- 感想：密出的挺早的（2/4），但其他都让我等的好心酸哇，top20 transfer确实难度较大
+ ***
