@@ -33,30 +33,31 @@
 | 23 |   | 乔治敦大学 |   |   |   | $57,928 |
 | [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [26](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [密歇根大学安娜堡分校](/schools/umich) | 4942 | 2051 | 41.5% | $53,232 |
 | 25 |   | 卡内基梅隆大学 |   |   |   | $58,485 |
-| 26 |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |
-| 32 |   |   |   |   |   |   |
-| 33 |   |   |   |   |   |   |
-| 34 |   |   |   |   |   |   |
-| 35 |   |   |   |   |   |   |
-| 36 |   |   |   |   |   |   |
-| 37 |   |   |   |   |   |   |
-| 38 |   |   |   |   |   |   |
-| 39 |   |   |   |   |   |   |
-| 40 |   |   |   |   |   |   |
-| 41 |   |   |   |   |   |   |
+| 25 |   | 弗吉尼亚大学 |   |   |   | $53,666 |
+| 27 |   | 南加州大学 |   |   |   | $60,275 |
+| 28 |   | 塔夫茨大学 |   |   |   | $60,862 |
+| 28 |   | 加州大学圣塔芭芭拉分校 |   |   |   | $44,196 |
+| 28 |   | 维克森林大学 |   |   |   | $57,760 |
+| 28 |   | 佛罗里达大学 |   |   |   | $28,658 |
+| 28 |   | 纽约大学 |   |   |   | $54,880 |
+| 28 |   | 北卡罗来纳大学教堂山分校 |   |   |   | $36,776 |
+| 34 |   | 加州大学圣地亚哥分校 |   |   |   | $44,487 |
+| 34 |   | 罗切斯特大学 |   |   |   | $58,241 |
+| 36 |   | 加州大学尔湾分校 |   |   |   | $43,709 |
+| 36 |   | 波士顿学院 |   |   |   | $60,202 |
+| 38 |   | 加州大学戴维斯分校 |   |   |   | $44,408 |
+| 38 |   | 佐治亚理工学院 |   |   |   | $33,794 |
+| 38 |   | 威廉玛丽学院 |   |   |   | $46,467 |
+| 38 |   | 德克萨斯大学奥斯汀分校 |   |   |   | $40,032 |
+| 42 |   | 波士顿大学 |   |   |   | $58,072 |
+| 42 |   | 杜兰大学 |   |   |   | $58,852	 |
 | [42](https://www.usnews.com/best-colleges/university-of-wisconsin-3895) | [31](https://www.shanghairanking.com/institution/university-of-wisconsin-madison)  | [威斯康星大学-麦迪逊](/schools/wisc)  |  3528 |  2075 | 58.8%  | $38,608  |
-| 43 |   |   |   |   |   |   |
-| 44 |   |   |   |   |   |   |
-| 45 |   |   |   |   |   |   |
-| 46 |   |   |   |   |   |   |
+| 42 |   | 布兰迪斯大学 |   |   |   | $57,230 |
+| 42 |   | 	凯斯西储大学 |   |   |   | $52,948 |
 | [47](https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775) | [55](https://www.shanghairanking.com/institution/university-of-illinois-at-urbana-champaign) | [伊利诺伊大学香槟分校](/schools/uiuc)  | 4245 | 2001  | 47.14%  |  $33,000  |
-| 48 |   |   |   |   |   |   |
-| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [ 普渡大学](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
+| 48 |   | 佐治亚大学 |   |   |   | $31,120 |
+| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [
+普渡大学西拉法叶分校](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
 | [49](https://www.usnews.com/best-colleges/ohio-state-6883) |[100-150](https://www.shanghairanking.com/institution/the-ohio-state-university-columbus)   | [俄亥俄州立大学](/schools/osu) | 3853  | 3450  | 89.54%  | $36,698  |
 | 51 |   |   |   |   |   |   |
 | 52 |   |   |   |   |   |   |
