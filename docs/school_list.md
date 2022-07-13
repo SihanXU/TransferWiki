@@ -56,32 +56,32 @@
 | 42 |   | 	凯斯西储大学 |   |   |   | $52,948 |
 | [47](https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775) | [55](https://www.shanghairanking.com/institution/university-of-illinois-at-urbana-champaign) | [伊利诺伊大学香槟分校](/schools/uiuc)  | 4245 | 2001  | 47.14%  |  $33,000  |
 | 48 |   | 佐治亚大学 |   |   |   | $31,120 |
+| 49 |   | 里海大学 |   |   |   | $55,260 |
+| 49 |   | 东北大学 |   |   |   | $55,452 |
+| [49](https://www.usnews.com/best-colleges/ohio-state-6883) |[100-150](https://www.shanghairanking.com/institution/the-ohio-state-university-columbus)   | [俄亥俄州立大学](/schools/osu) | 3853  | 3450  | 89.54%  | $36,698 |
+| 49 |   | 佩珀代因大学 |   |   |   | $58,002 |
+| 49 |   | 维拉诺瓦大学 |   |   |   | $57,460 |
 | [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette)  | [普渡大学西拉法叶分校](/schools/purdue)  | 3104  | 1465  | 47.19% |  $33,000 |
-| [49](https://www.usnews.com/best-colleges/ohio-state-6883) |[100-150](https://www.shanghairanking.com/institution/the-ohio-state-university-columbus)   | [俄亥俄州立大学](/schools/osu) | 3853  | 3450  | 89.54%  | $36,698  |
-| 51 |   |   |   |   |   |   |
-| 52 |   |   |   |   |   |   |
-| 53 |   |   |   |   |   |   |
-| 54 |   |   |   |   |   |   |
-| 55 |   |   |   |   |   |   |
-| 56 |   |   |   |   |   |   |
-| 57 |   |   |   |   |   |   |
-| 58 |   |   |   |   |   |   |
-| 59 |   |   |   |   |   |   |
-| 60 |   |   |   |   |   |   |
-| 61 |   |   |   |   |   |   |
-| 62 |   |   |   |   |   |   |
-| 63 |   |   |   |   |   |   |
-| 64 |   |   |   |   |   |   |
-| 65 |   |   |   |   |   |   |
-| 66 |   |   |   |   |   |   |
-| 67 |   |   |   |   |   |   |
+| 55 |   | 伦斯勒理工学院 |   |   |   | $57,012 |
+| 55 |   | 佛罗里达州立大学 |   |   |   | $21,683 |
+| 55 |   | 迈阿密大学 |   |   |   | $53,682 |
+| 55 |   | 圣克拉拉大学 |   |   |   | $52,998 |
+| 59 |   | 华盛顿大学 |   |   |   | $39,906 |
+| 59 |   | 马里兰大学帕克分校 |   |   |   | $38,636 |
+| 59 |   | 雪城大学 |   |   |   | $55,088 |
+| 59 |   | 匹兹堡大学 |   |   |   | $34,124 |
+| 63 |   | 宾夕法尼亚州立大学 |   |   |   | $36,476 |
+| 63 |   | 康涅狄格大学 |   |   |   | $41,192 |
+| 63 |   | 伍斯特理工学院 |   |   |   | $55,531 |
+| 63 |   | 乔治华盛顿大学 |   |   |   | $56,049 |
+| 63 |   | 罗格斯大学 |   |   |   | $33,005 |
 | [68](https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969) | [40](https://www.shanghairanking.com/institution/university-of-minnesota-twin-cities)  | [明尼苏达大学双城分校](/schools/umn)  | 5068 | 2778 | 54.8% | $34,986 |
-| 69 |   |   |   |   |   |   |
-| 70 |   |   |   |   |   |   |
-| 71 |   |   |   |   |   |   |
-| 72 |   |   |   |   |   |   |
-| 73 |   |   |   |   |   |   |
-| 74 |   |   |   |   |   |   |
+| 68 |   | 福特汉姆大学 |   |   |   | $55,776 |
+| 68 |   | 德州农工大学 |   |   |   | $40,087 |
+| 68 |   | 马萨诸塞大学安姆斯特分校 |   |   |   | $36,964 |
+| 68 |   | 印第安纳大学伯明顿分校 |   |   |   | $38,354 |
+| 68 |   | 南卫理公会大学 |   |   |   | $58,540 |
+| 68 |   | 叶史瓦大学 |   |   |   | $46,475 |
 | 75 |   |   |   |   |   |   |
 | 76 |   |   |   |   |   |   |
 | 77 |   |   |   |   |   |   |
