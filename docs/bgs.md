@@ -213,7 +213,7 @@
 - 附:公众号一些浅浅的转学准备介绍:  [推文](https://mp.weixin.qq.com/s/Vo9F7iBeE4q2A4A_gJatHw)
  
  ***
- ## MT J
+## MT J
  
 - GPA：大一3.4 大二wes还没出估计3.7左右
 - 专业：STA
