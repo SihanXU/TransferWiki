@@ -2,6 +2,7 @@ site_name: TransferWiki
 
 nav:
   - 首页: index.md
+  - 内容导航: faq.md
   - 前言: intro.md
   - 转学的利与弊: think.md
   - 定位择校: school.md
@@ -10,4 +11,3 @@ nav:
   - 录取及之后: admit.md
   - 附录：学生案例: bgs.md
   - 学校列表: school_list.md
-  - 常见问题: faq.md
