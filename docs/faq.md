@@ -32,7 +32,7 @@
 
 ## 如何保持好的学习成绩/GPA？对于在申请前的剩余学期的经验分享？
 
-对于西交利物浦的同学, [西浦生存手册](https://www.xjtludiy.wiki/) 或许能给你在西浦的生活提供一点帮助和参考。宁诺和其他学校的同学，如果你觉得有帮助也欢迎参考。[这里是西浦生存手册的Github](https://github.com/DylanLIiii/XJTLU-manual)，欢迎各位多多支持。
+对于西交利物浦的同学, [西浦生存手册](https://www.xjtludiy.wiki/) 或许能给你在西浦的生活提供一点帮助和参考。宁诺和其他学校的同学，如果你觉得有帮助也欢迎参考。如果你也想参与网站的建设，[这里是西浦生存手册的Github](https://github.com/DylanLIiii/XJTLU-manual)，欢迎各位多多支持。
 
 - 网站截图：
 ![shouce](https://user-images.githubusercontent.com/80454689/183253132-12e944f3-7cf0-4c6c-87f1-2d47a4a2c4e2.jpg)
