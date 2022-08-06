@@ -98,12 +98,13 @@
 具体的步骤如下：
 - 使用账号密码，登录学信网。首次使用请注册好（如果忘记密码，可以用手机号或者邮箱来找回）
 - 按照下列图片，依次点击圈出的地方
-- ![1](https://user-images.githubusercontent.com/80454689/183252049-006adf56-cf20-4cae-b2c2-82311ee04fc4.jpg)
-- ![2](https://user-images.githubusercontent.com/80454689/183252055-4536eea0-3285-447e-85a9-b459326cd91f.jpg)
-- ![3](https://user-images.githubusercontent.com/80454689/183252062-efbba78f-71bb-4334-9e20-0cfd9e5b4c75.jpg)
-- ![4](https://user-images.githubusercontent.com/80454689/183252071-ea525e8a-62ea-4f4c-9163-bfe76aab299d.jpg)
-- ![5](https://user-images.githubusercontent.com/80454689/183252078-11d12d39-aa4e-435b-bae2-c90d4a4554e0.jpg)
-之后根据实际情况，填写你的个人资料和成绩
+![1](https://user-images.githubusercontent.com/80454689/183252049-006adf56-cf20-4cae-b2c2-82311ee04fc4.jpg)
+![2](https://user-images.githubusercontent.com/80454689/183252055-4536eea0-3285-447e-85a9-b459326cd91f.jpg)
+![3](https://user-images.githubusercontent.com/80454689/183252062-efbba78f-71bb-4334-9e20-0cfd9e5b4c75.jpg)
+![4](https://user-images.githubusercontent.com/80454689/183252071-ea525e8a-62ea-4f4c-9163-bfe76aab299d.jpg)
+![5](https://user-images.githubusercontent.com/80454689/183252078-11d12d39-aa4e-435b-bae2-c90d4a4554e0.jpg)
+
+- 之后根据实际情况，填写你的个人资料和成绩
 
 3. 在最终确定和付款之前有一个备注的地方，这里一定要把**学校查看成绩的网站，学生账户和密码**填上去。这一步能大大加快我们的成绩单的认证速度。一般学信网的认证速度是从十天左右到一个月不等，但是提供了这个信息过后，有概率两三天就能收到报告了。
 
