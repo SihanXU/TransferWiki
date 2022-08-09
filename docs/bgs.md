@@ -230,9 +230,7 @@
 ***
 ## Eric
 
-- GPA: Y1: 71 Rank：4/107
-
-Y2: 79 Rank：2/107
+- GPA: Y1: 71 Rank：4/107; Y2: 79 Rank：2/107
 
 AY20/21 University Academic Excellence Award
 
@@ -242,7 +240,7 @@ AY21/22 University Academic Excellence Award
 - 专业：Digital Media Technology, School of Advanced Technology
 - 就读院校：西交利物浦大学
 - 选校及最终录取结果
-- 
+
 USA：
 - UW-Madison L&S Data Science                       Submitted  ❌ ➡️Deny Upheld❌
 - UIUC LAS CS+Astr                                  Submitted  ❌ 
@@ -254,7 +252,7 @@ USA：
 - Purdue Poly Game Development                      Submitted  ✅ ➡️Declined
 - Rochester - withdrawn
 
-- Canada：
+ Canada：
 - U of Toronto-St. George  Arts&Science             Submitted  ✅ ➡️Declined
 - UBC-Vancouver Bachelor of Arts/Science            Submitted  ✅ ➡️Accepted
 - McGill - withdrawn
