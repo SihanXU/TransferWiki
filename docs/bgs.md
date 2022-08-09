@@ -230,33 +230,34 @@
 ***
 ## Eric
 
--GPA: Y1: 71 Rank：4/107
+- GPA: Y1: 71 Rank：4/107
 
 Y2: 79 Rank：2/107
 
 AY20/21 University Academic Excellence Award
 
 AY21/22 University Academic Excellence Award
--推荐信: 一封Academic Advisor 偏强推 ；Calc1&2老师平推；Physics老师平推
--语言：托福107
--专业：Digital Media Technology, School of Advanced Technology
--就读院校：西交利物浦大学
--选校及最终录取结果
-USA：                                        
-UW-Madison L&S Data Science                       Submitted  ❌ ➡️Deny Upheld❌
-UIUC LAS CS+Astr                                  Submitted  ❌ 
-UMN  CLA Statistics                               Submitted  ✅ ➡️Declined
-UNC-Chapel Hill CAS Computer Science              Submitted  ❌ 
-NYU Tandon Computer Engineering                   Submitted  ❌
-NEU CSH Data Science+Economics                    Submitted  ✅ ➡️Declined
-Cornell CAS Statistical Science                   Submitted  ❌ 
-Purdue Poly Game Development                      Submitted  ✅ ➡️Declined
-Rochester - withdrawn
+- 推荐信: 一封Academic Advisor 偏强推 ；Calc1&2老师平推；Physics老师平推
+- 语言：托福107
+- 专业：Digital Media Technology, School of Advanced Technology
+- 就读院校：西交利物浦大学
+- 选校及最终录取结果
+- 
+USA：
+- UW-Madison L&S Data Science                       Submitted  ❌ ➡️Deny Upheld❌
+- UIUC LAS CS+Astr                                  Submitted  ❌ 
+- UMN  CLA Statistics                               Submitted  ✅ ➡️Declined
+- UNC-Chapel Hill CAS Computer Science              Submitted  ❌ 
+- NYU Tandon Computer Engineering                   Submitted  ❌
+- NEU CSH Data Science+Economics                    Submitted  ✅ ➡️Declined
+- Cornell CAS Statistical Science                   Submitted  ❌ 
+- Purdue Poly Game Development                      Submitted  ✅ ➡️Declined
+- Rochester - withdrawn
 
-Canada：
-U of Toronto-St. George  Arts&Science             Submitted  ✅ ➡️Declined
-UBC-Vancouver Bachelor of Arts/Science            Submitted  ✅ ➡️Accepted
-McGill - withdrawn
-Waterloo - withdrawn
+- Canada：
+- U of Toronto-St. George  Arts&Science             Submitted  ✅ ➡️Declined
+- UBC-Vancouver Bachelor of Arts/Science            Submitted  ✅ ➡️Accepted
+- McGill - withdrawn
+- Waterloo - withdrawn
 
--最终去向：UBC荣誉数学, Class of 2025
+- 最终去向：UBC荣誉数学, Class of 2025
