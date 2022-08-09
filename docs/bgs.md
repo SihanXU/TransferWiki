@@ -230,9 +230,11 @@
 ***
 ## Eric
 
-- GPA: Y1: 71 Rank：4/107; Y2: 79 Rank：2/107
-  AY20/21 University Academic Excellence Award
-  AY21/22 University Academic Excellence Award
+- GPA
+  -  Y1: 71 Rank：4/107 
+  -  Y2: 79 Rank：2/107
+  - AY20/21 University Academic Excellence Award
+  - AY21/22 University Academic Excellence Award
 - 推荐信: 一封Academic Advisor 偏强推 ；Calc1&2老师平推；Physics老师平推
 - 语言：托福107
 - 专业：Digital Media Technology, School of Advanced Technology
@@ -248,19 +250,19 @@ USA：
 - NEU CSH Data Science+Economics                      ✅ ➡️Declined
 - Cornell CAS Statistical Science                     ❌ 
 - Purdue Poly Game Development                        ✅ ➡️Declined
-- Rochester - withdrawn
+- Rochester - Withdrawn
 
  Canada：
 - U of Toronto-St. George  Arts&Science               ✅ ➡️Declined
 - UBC-Vancouver Bachelor of Arts/Science              ✅ ➡️Accepted
-- McGill - withdrawn
-- Waterloo - withdrawn
+- McGill - Withdrawn
+- Waterloo - Withdrawn
 
 - 最终去向：UBC荣誉数学, Class of 2025
 - 申请季总结及建议：将分为三部分（WHY UBC, 加拿大项目避雷，美国项目避雷）
   - WHY UBC？
   本人最后的选择面较广，录取学校涉及美东，美中地区以及西海岸。综合考量后选择了在西海岸的UBC，其安全系数高，气候如昆明，饮食如回国，校园堪比爱丽丝梦游仙境也就算了部分宿舍还是海景房，     college   life在我的录取学校中基本一骑绝尘。强调college life的原因无它，只是因为作者两年西浦生涯经历了一个半学期的online teaching甚至有一整个学期线上的经历。在经历Zoom Univ   后，只想得到   一些就读体验感。从Faculty及申研角度，UBC数学系的老师没有差的，缺点在于好像偏纯数。申美研这几年的战绩也很不错，头部大概能够碰到麻省理工和普林斯顿的金融。
-- 加拿大项目避雷
+  - 加拿大项目避雷
   UBC和UofT的Bachelor of Computer Science项目仅开设给拿到过一个本科学位的学生，请务必避开；UBC请看好校区，Okanagan校区没什么申的必要，要申就申Vancouver主校区
-- 美国项目避雷
+  - 美国项目避雷
   UIUC的CS+项目请谨慎申请，该项目在22Fall申请季中打开杀戒，拒掉大量三维优秀学生；某W开头中部公立学校在处理材料时多次出现失误，客服据传言大多为大专学生临时工，如必要请直接和他们电话沟   通确保材料送到
