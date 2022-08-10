@@ -242,6 +242,7 @@
 - 选校及最终录取结果
 
 USA：
+
 - UW-Madison L&S Data Science                         ❌ 
 - UIUC LAS CS+Astr                                    ❌ 
 - UMN  CLA Statistics                                 ✅ ➡️Declined
@@ -253,6 +254,7 @@ USA：
 - Rochester - Withdrawn
 
  Canada：
+ 
 - U of Toronto-St. George  Arts&Science               ✅ ➡️Declined
 - UBC-Vancouver Bachelor of Arts/Science              ✅ ➡️Accepted
 - McGill - Withdrawn
