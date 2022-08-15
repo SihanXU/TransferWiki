@@ -8,7 +8,7 @@
 
 | USNEWS | 上海软科 | QS | THE | CSRankings2021 |
 | --- | --- | --- | --- | ---|
-| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [26](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [25](https://www.topuniversities.com/universities/university-michigan-ann-arbor) | [24](https://www.timeshighereducation.com/world-university-rankings/university-michigan-ann-arbor) | 5 |
+| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [28](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [25](https://www.topuniversities.com/universities/university-michigan-ann-arbor) | [24](https://www.timeshighereducation.com/world-university-rankings/university-michigan-ann-arbor) | 5 |
 
 ## 申请材料
 
