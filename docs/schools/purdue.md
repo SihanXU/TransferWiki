@@ -8,7 +8,7 @@
 
 | USNEWS | 上海软科 | QS | THE | CSRankings2021 |
 | --- | --- | --- | --- | ---|
-| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [86](https://www.shanghairanking.com/institution/purdue-university-west-lafayette) | [129](https://www.topuniversities.com/universities/purdue-university) | [105](https://www.timeshighereducation.com/world-university-rankings/purdue-university-west-lafayette) | 17 |
+| [49](https://www.usnews.com/best-colleges/purdue-university-west-lafayette-1825) | [83](https://www.shanghairanking.com/institution/purdue-university-west-lafayette) | [129](https://www.topuniversities.com/universities/purdue-university) | [105](https://www.timeshighereducation.com/world-university-rankings/purdue-university-west-lafayette) | 17 |
 
 ## 申请材料
 
