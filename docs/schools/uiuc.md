@@ -10,7 +10,7 @@
 
 | USNEWS | 上海软科 | QS | THE | CSRankings2021 |
 | --- | --- | --- | --- | ---|
-| [47](https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775) | [55](https://www.shanghairanking.com/institution/university-of-illinois-at-urbana-champaign) | [85](https://www.topuniversities.com/universities/university-illinois-urbana-champaign) | [48](https://www.timeshighereducation.com/world-university-rankings/university-illinois-urbana-champaign) | 2 |
+| [47](https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775) | [49](https://www.shanghairanking.com/institution/university-of-illinois-at-urbana-champaign) | [85](https://www.topuniversities.com/universities/university-illinois-urbana-champaign) | [48](https://www.timeshighereducation.com/world-university-rankings/university-illinois-urbana-champaign) | 2 |
 
 ## 申请材料
 
