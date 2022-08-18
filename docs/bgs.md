@@ -116,7 +116,7 @@
 ***
 
 ## 超级霸王龙
-- GPA：3.53/4.0 （专业课英制70+）
+- GPA：3.53/4.0（专业课英制70+） 英制均分70出头
 - 语言成绩：DET110（Lit Pro120）
 - 专业：头铁EE申Comp Engr，之后转申CS/data science相关
 - 选校：uwm uiuc osu purdue umn sbu uAlberta UPitt
