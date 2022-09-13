@@ -1,6 +1,6 @@
 # 欢迎来到TransferWiki
 
-我们的网址是[transferwiki.com](transferwiki.com)和[transferwiki.cn](transferwiki.cn)
+我们的官方网址是[transferwiki.com](transferwiki.com)，备用网址是[transferwiki.cn](transferwiki.cn)
 
 ## 协议
 
