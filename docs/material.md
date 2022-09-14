@@ -2,6 +2,51 @@
 
 一般来说，各大学校一定需要的是大学成绩单和语言成绩，这也是学校决定申请者录取与否的关键。后面罗列的初高中材料/文书/推荐信/比赛/实习/志愿者/其他等软背景，取决于不同学校的具体规定。为了保证申请时能够有针对性地准备材料，我们希望你能亲自在搜索引擎中搜索“学校名+transfer”这样的关键词，查阅学校官网的具体要求。这里是一些总体上的概述。
 
+## 如何查询必要的信息
+
+举例：你想转学到umn的文理学院读cs
+
+如果你无法访问谷歌，[必应](https://www.bing.com/)是更推荐用来搜索英文信息的网站
+
+![屏幕截图 2022-09-14 112744](https://user-images.githubusercontent.com/80454689/190212037-8e600846-119f-4493-af1b-29d73c361dc8.jpg)
+
+如上图所示，选择国内版就可以
+
+我们先来试试搜索"umn transfer materials"
+
+![屏幕截图 2022-09-14 113225](https://user-images.githubusercontent.com/80454689/190212494-240f2ddc-dfde-4ab4-89d2-46ae17313aac.jpg)
+
+点开这个以edu结尾的链接
+
+![屏幕截图 2022-09-14 113842](https://user-images.githubusercontent.com/80454689/190212705-3f543323-b9a4-4960-9456-cafe7177a090.jpg)
+
+你需要提交的材料一应俱全
+
+或者我们还可以搜索“umn transfer deadline”
+
+![屏幕截图 2022-09-14 113943](https://user-images.githubusercontent.com/80454689/190213393-9b49195a-f6d0-4afa-954f-8ef7f39a355c.jpg)
+
+
+点开第一个deadline，查找我们目标文理学院的deadline
+
+![屏幕截图 2022-09-14 114259](https://user-images.githubusercontent.com/80454689/190213751-b56d2cf4-b4a6-42f5-8755-a20cc010d77e.jpg)
+
+试着点击上面的Submit A Transfer Application看看
+
+![屏幕截图 2022-09-14 114535](https://user-images.githubusercontent.com/80454689/190214054-3deab027-a9ef-45ad-8d62-51f39ddb041f.jpg)
+
+我们需要的链接一应俱全
+
+***
+
+或者点开第二个timelines，发现官网上按时间顺序罗列了我们每一步需要做的事情和链接
+
+![屏幕截图 2022-09-14 114007](https://user-images.githubusercontent.com/80454689/190213112-379502bb-0c44-45e4-92cb-1e8dd92d5ad5.jpg)
+
+![屏幕截图 2022-09-14 114022](https://user-images.githubusercontent.com/80454689/190213126-12289835-8fae-4945-9596-db2f2c8fd3e4.jpg)
+
+总之，直接去官网查找信息是最方便最准确的办法。因为对于申请者的所有所需信息都会放在官网上等你查阅。即使你请了中介代劳，自己独立获取信息以及和学校沟通的这一关也总是要过的。
+
 ## 成绩单
 
 保持一个好的成绩是你的首要任务。美本在衡量学生的成绩时，会把所有人的成绩都换算成GPA来看待。不同学校的换算标准不同，因此很难提出一个统一的计算方式。GPA的具体计算，可以在[WES](https://applications.wes.org/igpa-calculator/igpa.asp)这样的网站上得到。[这里](https://mp.weixin.qq.com/s/KUT1I4_SVZUNjIRY5mAv7g)是WES信息的填写指南。GPA的计算方式是加权计算；同时学分越高的课对于GPA的影响越大。因此你需要首先认真刷高学分占比大的课的分数，尽量让他们得到高分。
