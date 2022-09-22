@@ -12,6 +12,13 @@
 
 对于西浦的同学，课程描述可以在ebridge上找到对应的课程之后保存网页来获得，也可以在Learning Mall上下载课程的Module Handbook。
 
+总的来说，学分转换分成以下几种：
+
+- 能转到对应的课上：举例：在陆本修的微积分1，转到了Calculus 1上，显示的GPA是T。这就视作为Calculus 1是校外（陆本）修的，GPA是T（Transfer）。
+- 转不到对应课上，但是可以满足某种毕业要求：比如在陆本修的线性代数，没法转到对应的Linear Algebra，但是转了3学分Electives和Math requirement。这代表着如果你想上先修课要求为Linear Algebra的高阶课，需要在美本重上一遍。在陆本修的仅能满足毕业要求（比如要求12分的Math requirement和120的总学分，陆本线代可以算3学分的Math requirement和3学分的总学分）
+
+如果你对转的学分不满意，可以尝试着argue一下re-evaluation。一般学校网站上也有类似degree-audit/degree-planner这样的工具，运行一下之后能告诉你你还缺哪方面的学分。
+
 ## 护照的办理
 
 一般而言，在当前政策下，只有拿到offer之后才能够有足够的理由去办理护照。护照办理的地方可以通过地图搜索当地的出入境中心办理，一般都在当地的政务服务中心或当地公安局。之后，即可联系当地的工作人员，并在他们的引导下办理护照。
