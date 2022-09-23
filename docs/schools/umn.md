@@ -10,7 +10,7 @@
 
 | USNEWS | 上海软科 | QS | THE | CSRankings2021 |
 | --- | --- | --- | --- | ---|
-| [68](https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969) | [44](https://www.shanghairanking.com/institution/university-of-minnesota-twin-cities) | [185](https://www.topuniversities.com/universities/university-minnesota-twin-cities) | [24](https://www.timeshighereducation.com/world-university-rankings/university-minnesota) | 35 |
+| [68](https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969) | [44](https://www.shanghairanking.com/institution/university-of-minnesota-twin-cities) | [185](https://www.topuniversities.com/universities/university-minnesota-twin-cities) | [62](https://www.timeshighereducation.com/world-university-rankings/university-minnesota) | 35 |
 
 ## 申请材料
 
