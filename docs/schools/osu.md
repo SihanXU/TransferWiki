@@ -103,7 +103,7 @@
 
 OSU官方的转学分报告汇总，包含了各个学校的课在OSU的转学分情况（陆本和美本都有）
 
-- <a href="/test/OSU_semester_equivalencies.xlsx" target="_blank">点击此处下载改文件</a>
+- <a href="/test/OSU_semester_equivalencies.xlsx" target="_blank">点击此处下载该文件</a>
 
 
 
