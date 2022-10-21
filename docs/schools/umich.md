@@ -1,5 +1,11 @@
 # University of Michigan, Ann Arbor
 
+![university-michigan_439](https://user-images.githubusercontent.com/80454689/197107052-35bca25c-5121-4efa-881d-a4cd5dd88151.jpg)
+
+***
+
+![university-michigan-library-UMICH0217-189e251b1e9b4f1a9a644a200776a3d2](https://user-images.githubusercontent.com/80454689/197107081-f7b54106-d2d8-4a56-8f14-42e3675e487c.jpg)
+
 ## 学校简介
 
 密歇根大学安娜堡分校（University of Michigan, Ann Arbor）是美国著名的公立研究型大学，也是美国历史最悠久的大学之一，被誉为“公立常春藤”。该校成立于1817年， 密歇根大学安娜堡分校作为密歇根大学的旗舰校区，拥有全美最高的研究预算、浓厚的学术气氛、优良的师资以及顶尖的商学院、法学院、医学院、工学院及文理学院。素有“公立大学典范”之称，其学生综合满意程度为97%。学校共有1600多个学生组织，还会组织学生参加社区活动，能够充分满足学生各类需求。
