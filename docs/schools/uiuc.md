@@ -1,5 +1,7 @@
 # University of Illinois at Urbana-Champaign
 
+![UIUC_overview](https://user-images.githubusercontent.com/80454689/197107167-fcdef4ff-37f4-4662-98cc-fcc78e852efd.jpeg)
+
 ## 学校简介
 
 伊利诺伊大学-厄巴纳-香槟分校（University of Illinios Urbana-Champaign）成立于1867年，是一所世界一流的美国顶尖研究型高等学府，素有“公立常春藤”大学的美誉。该校图书馆拥有全美第二的图书总量，在校园里，每走一段路就能遇到个图书馆，校园里的学术气息非常浓郁。伊利诺伊大学非常注重学生多样化，学校有来自100多个国家，超过47000名的学生。
