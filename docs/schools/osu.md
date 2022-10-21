@@ -1,5 +1,7 @@
 # The Ohio State University--Columbus Campus
 
+![the oval](https://user-images.githubusercontent.com/80454689/197106944-36c455a1-1042-40e8-9351-e8904c849630.jpg)
+
 ## 学校简介
 
 俄亥俄州立大学（英语：The Ohio State University，缩写：Ohio State 或 OSU）创建于1870年，是一所坐落于美国俄亥俄州首府哥伦布市北部的公立研究型大学。它是北美顶尖的学术联盟美国大学协会成员之一以及十大联盟成员。它也是美国五大湖地区顶尖的公立大学之一，被誉为“公立常春藤”。
