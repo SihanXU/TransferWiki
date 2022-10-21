@@ -94,11 +94,17 @@
 
 4. 工学院的申请先修条件极其繁琐，不建议申请。但是可以在截止日期之后选择更改专业，并且AO态度较好回复十分迅速。
 
+![1662827887-2778606884-g_n](https://user-images.githubusercontent.com/80454689/197108345-74c0564b-2c09-4d9a-b465-5ac7776cd3bf.jpg)
+
+
 ***
 
 ### University of Texas Austin (UTA)
 
 UTA位处德州奥斯汀，机会众多，且工科和会计学优秀；但根据过往数据而言，秋转难度较大，而春转转学录取率尚可。
+
+![11111UnivTexas](https://user-images.githubusercontent.com/80454689/197108276-459baf65-ffcf-428a-874d-ca63cc30d10d.jpg)
+
 
 ***
 
