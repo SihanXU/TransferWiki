@@ -1,5 +1,11 @@
 # University of Minnesota-Twin Cities
 
+![umn](https://user-images.githubusercontent.com/80454689/197106613-d0ac9bac-afc8-4187-a264-bd110ce59187.png)
+
+***
+
+![umn](https://user-images.githubusercontent.com/80454689/197106582-93fe7a64-a706-48af-8fce-18d246d300ba.jpg)
+
 ## 学校简介
 
 明尼苏达大学双城校区（University of Minnesota, Twin Cities，缩写UMN），建校于1851年，是全美国最有声望的公立研究型大学之一，被誉为“公立常春藤”。学校位于美国明尼苏达州明尼阿波利斯市与圣保罗市。明尼阿波利斯是明尼苏达州最大城市，人口占全州总人口一半以上。圣保罗是美国明尼苏达州的州府，也是第二大城市。明尼苏达州有一个特点就是冷，非常冷！准备来UMN的同学要做好心理准备，这里的冬天会从10月开始一直到第二年4月才结束。
