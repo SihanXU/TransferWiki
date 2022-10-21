@@ -99,6 +99,12 @@
 
 参考材料：[Common Data Set](https://oaa.osu.edu/sites/default/files/uploads/irp/cds/columbus/CDS_2020-2021_Columbus.pdf)
 
+## 转学分报告
+
+OSU官方的转学分报告汇总，包含了各个学校的课在OSU的转学分情况（陆本和美本都有）
+
+- <a href="/test/OSU_semester_equivalencies.xlsx" target="_blank">点击此处下载改文件</a>
+
 
 
 
