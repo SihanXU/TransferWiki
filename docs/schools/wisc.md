@@ -1,5 +1,11 @@
 # University of Wisconsin - Madison
 
+![uwmadison2](https://user-images.githubusercontent.com/80454689/197106783-1997e65b-7bb5-4a8b-991b-790772fc9f2f.jpg)
+
+***
+
+![uwmadison](https://user-images.githubusercontent.com/80454689/197106803-75e8cc91-1f60-4138-8627-c8bb1475efc7.jpg)
+
 ## 学校简介
 威斯康星大学麦迪逊分校（University of Wisconsin-Madison，简称UW-Madison）是一所美国著名的公立研究型大学，也是美国知名的十大联盟创始成员之一，被誉为“公立常春藤”，位于美国威斯康星州麦迪逊市。该校成立于1848年，作为威斯康星大学系统的旗舰学府，其学生综合满意程度为95%。学校有二十多个校队，近900个学生组织。作为一所公立名校，学校关注且在乎学生的个人财务状况，不仅为学生设立了品相繁多的奖学金项目，在特殊情况还会为学生们发放救济金，帮助学生度过难关。
 
