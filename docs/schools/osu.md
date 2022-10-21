@@ -107,7 +107,7 @@ OSU官方的转学分报告汇总，包含了各个学校的课在OSU的转学�
 
 - <a href="/test/OSU_semester_equivalencies.xlsx" target="_blank">点击此处下载该文件</a>
 
-
+[OSU官网上该文件的链接](https://registrar.osu.edu/transfer_credit/)（该文件每月都会更新，如可以请查看官网获取最新版本）
 
 
 
