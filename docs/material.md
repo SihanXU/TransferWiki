@@ -111,7 +111,7 @@
 
 - <a href="/test/TransferWiki_初中成绩单模板.doc" target="_blank">点击此处下载初中成绩单模板</a>
 - <a href="/test/TransferWiki_高中成绩单模板.doc" target="_blank">点击此处下载高中成绩单模板</a>
-- <a href="/test/TransferWiki_高中毕业证翻译英文模板.doc" target="_blank">点击此处下载高中毕业证翻译英文模板</a>
+- <a href="/test/TransferWiki_高中毕业证翻译英文.doc" target="_blank">点击此处下载高中毕业证翻译英文模板</a>
 
 ## 推荐信
 
