@@ -347,3 +347,50 @@ Minneapolis比Columbus强，生活会好一些。但气候会更恶劣一些（�
 
 - 建议:早点准备语言，因为国内考位紧张，又容易取消，我个人出分异常困难，UIUC就是因为语言直接被筛掉了（不过大概率也很难被录，今年UIUC的CS+项目又是大开杀戒）
 
+***
+
+## 不愿意透露姓名1
+
+- 23 Fall 文理学院秋季转学
+- 背景：CS商科缝合怪专业在读，高中普高。
+- GPA：3.4/4.0 
+- 语言成绩：IELTS 7.5 （8L 8R 6.5W 7.5S）
+- 院校：西交利物浦大学
+- 推荐信：一封某NGO创始人强推、一封校内老师平推、一封高中班主任强推
+- 活动：高中两个社团创始人、某全国性业余组织成员、一个校内社团、一次内资咨询公司实习、一次外资咨询公司实习、一次NGO项目实习以及某法院实习
+- 录取结果：Denison University, Beloit College, Augustana College, Connecticut College, Trinity University. 
+- 最后去向：Denison University ad with scholarship $15800/yr
+- 感想：受国内疫情发展影响，应该尽早准备语言成绩。文理学院申请不同于一般大U，学校招生过程更注重学生本人的精神世界发展，因此在essay中应该讲好自己的life story。
+
+***
+
+## 不愿意透露姓名2
+
+- 大三春转
+- GPA：3.75/4 
+- 语言：托福96 DET125
+- 专业：Applied Mathematics
+- 就读院校：XJTLU
+### 选校：
+- TAMU 1st choice：Computing 
+  2nd choice: Mathematics 
+- UFL Mathematics 
+- OSU Mathematics ✅
+- UMN Computer Science ✅
+- UIUC Statistics ✅ 
+- Purdue Statistics ✅
+- UMich Mathematics Defer❓
+- UT-Austin Mathematics-Entry Level ✅
+
+- 去向：UIUC Stat
+
+- 申请季总结及建议：
+- 1️⃣Why Illini
+- 可转学分多，基本上西浦所有数学课都能转到课上
+- 整个项目费用低（很多学校虽然学费低，但是转的课少时间长）
+- GPA相对好拿
+- 假如将来要转码，留本校MCS比较方便
+
+- 2️⃣选校
+- 尽量多申请彩票，保底有一两个就够了
+
