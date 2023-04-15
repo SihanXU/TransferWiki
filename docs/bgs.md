@@ -397,6 +397,8 @@ Minneapolis比Columbus强，生活会好一些。但气候会更恶劣一些（�
 - 最后去向：Denison University ad with scholarship $15800/yr
 - 感想：受国内疫情发展影响，应该尽早准备语言成绩。文理学院申请不同于一般大U，学校招生过程更注重学生本人的精神世界发展，因此在essay中应该讲好自己的life story。
 
+***
+
 ### 浪浪
 
 - GPA:没有大学成绩
@@ -420,6 +422,8 @@ DET115(有点低，天天摆大烂的恶果)
 - 本来打算直接退学直申，因为在陆本enroll的这段经历，过在一部分学校眼里不能退学直申(当然你可以隐瞒)，但是就算直申拿到offer，被人举报后背调发现你有陆本经历会被直接退学(这一点是群友告诉我的)，因此我就逐个发邮件询问我现在没有任何学分，想退学直接申请，是否有这个资格，总结一下UC umass iub uconn 可以，OSU，umn，uiuc不行，这是OSU的ao原回信里的一句话: I cannot guarantee that your enrollment at your previous institution without completing courses will decrease your chances of admission.所以像我一样的情况可以被录取，但有一说一，我等待的时间比大多数人可能会更长。OSU的rolling录取模式早申早录，最早有2月初就拿到offer的，但是也见到跨专业被拒的，基本就是小概率事件。感觉OSU就是点击就送，在umich实在难，Wisconsin难度剧增uiuc卡数学的情况下，OSU也是一个不错的选择，放心去，泄露对OSU影响并不大。
 
 - 建议如果你现在是暑假并且能在申请季度到来之前能够考出语言，而且预算够的话，就可以考虑直接退学等待直申的申请季大概选校其实跟本转差不多(多了个UC和华盛顿西雅图，少了麦迪逊和安娜堡)，UC这几年卷不过你可以依然有可能被UC录取只有80+的托福UCD有希望，但是UCI UCSB这一类最起码雅思7托福100再学4-5门AP才行，anyway，如果你预算并非很充足，可以考虑现就读陆本再转学，毕竟留美本科毕业可以直接找工，和国内不太一样，如果预算比较充足就可以考虑直申，前提是在11月以前考出语言并学习AP(AP最好在12.30以前学完)，祝你拿到理想的申请结果。
+
+***
 
 ### Wendy
 - 23Fall美本转学申请
