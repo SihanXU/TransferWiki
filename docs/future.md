@@ -11,9 +11,10 @@
 
 ### CS专业（主要）
 
-**我们的友好网站**：[**CSMSAPP** (Computer Science Masters Application)](https://csmsapp.github.io/)
+**我们的友好网站**：[**OPENCSAPP** (OPEN CS Application)](https://opencs.app/)
 
-![屏幕截图 2022-08-20 092123](https://user-images.githubusercontent.com/80454689/189503165-1c9a9b36-c8b0-429c-8277-f544585cabf6.jpg)
+
+![屏幕截图 2023-04-20 225931](https://user-images.githubusercontent.com/80454689/233538017-8aefc167-92e1-4e5f-85c1-4ec92eed2da0.jpg)
 
 
 与TransferWiki一样，CSMSAPP也是致力于免费分享北美计算机硕士的各种申请信息。
