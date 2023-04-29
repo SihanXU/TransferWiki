@@ -419,6 +419,7 @@ Minneapolis比Columbus强，生活会好一些。但气候会更恶劣一些（�
 - GPA:没有大学成绩
 
 但是有4门AP线上美高课3-4门5分：
+
 - macroeconomics
 - microeconomics
 - calculus
