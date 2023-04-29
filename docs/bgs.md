@@ -510,3 +510,5 @@ DET115(有点低，天天摆大烂的恶果)
 - 加拿大前四当中UofT无法转入cs，Mcgill、Waterloo基本不要转学生，所以只能选UBC，而UBC录取只能进系不能进专业，需要卷一年后才能决定是否进cs，由于UBC只给了year1的offer考虑到就读时长因此放弃。
 - 其他的学校：McMaster、UWO、Uottwa三家cs实力都半斤八两，但找工作方面，McMaster cs系由于生源好人数少所以出路不错；Uottawa所在的渥太华有许多科技公司，coop很好因此找工也不错；UWO cs只有internship没有coop，且地理位置和实习资源都比较差。
 - 体验上来说，McMaster一直没给我发temporary pin，live chat又打不通，申请体验较差听说offer也晚遂放弃；Uottawa发offer很爽快，complete十多天后就来了，但必须要我在4.13前accept/decline；UWO是体验最好的，回复速度快效率高，在我材料没齐的时候就发了offer，转学分友好（3xxx的课都转了），开学前有一对一advisor对谈，总的来说感觉除了cs差其他都不错。最后是UA，由于地理位置偏远没有coop只有聊胜于无的intern所以找工较差，优点是学费便宜且有tuition guarantee，cs实力较强。他们家申请体验很差，每次都是模板回复且发offer非常慢，笔者了解到有些人8月初才等来offer，学签都来不及办，且转学分很慢一般赶不上第一学期选课。从社交平台的分享来看，他们发offer有三轮，分别是4月、6月、8月。笔者建议申请的时候一旦材料齐了，在4月就狂催。催offer的渠道包括但不限于给ao、science系、cs department等一切与你program相关的部门/人发邮件、在service Portal上提issue。催offer的理由包括但不限于**学签耗时、已经等了很久、有其他学校的offer**等等。笔者靠着上面的方法等来了**不是模板的回复和4月底的offer**。
+
+***
