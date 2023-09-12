@@ -31,7 +31,7 @@
 | 21 | 101-150 | 埃默里大学 |   |   |   | $53,868 |
 | 22 | 5 | 加州大学伯克利分校 |   |   |   | $44,115 |
 | 23 | 401-500 | 乔治敦大学 |   |   |   | $57,928 |
-| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [28](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [密歇根大学安娜堡分校](/schools/umich) | 4942 | 2051 | 41.5% | $53,232 |
+| [23](https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092) | [28](https://www.shanghairanking.com/institution/university-of-michigan-ann-arbor) | [密西根大学安娜堡分校](/schools/umich) | 4942 | 2051 | 41.5% | $53,232 |
 | 25 | 101-150 | 卡内基梅隆大学 |   |   |   | $58,485 |
 | 25 | 201-300 | 弗吉尼亚大学 |   |   |   | $53,666 |
 | 27 | 53 | 南加州大学 |   |   |   | $60,275 |
