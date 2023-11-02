@@ -8,7 +8,7 @@
 [USNEWS](https://www.usnews.com/best-colleges/rankings/national-universities)
 
 
-[软科](https://www.shanghairanking.com/institution/stanford-university)
+[软科](https://www.shanghairanking.cn/rankings/arwu/2023)
 
 ---
 （美国地区院校的usnews排名皆为national rankings，其他排名则为世界排名）
