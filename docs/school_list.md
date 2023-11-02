@@ -4,7 +4,9 @@
 
 ---
 2023/11/1更新 本页面的数据稍微有点过时，由于更新这个表格工作量比较大，在这里直接提供USNEWS和软科的排名链接。
+
 USNEWS: https://www.usnews.com/best-colleges/rankings/national-universities
+
 软科：https://www.shanghairanking.cn/rankings/arwu/2023
 
 
