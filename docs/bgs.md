@@ -611,7 +611,7 @@ DET115(有点低，天天摆大烂的恶果)
 - 最后去向：还没想好去哪里
 - 感想：
 - 1. Purdue math今年好几个人被拒了，大概原因是没有像匹配的math syllabus，19年也有一个人因为这个原因被拒的，申请普渡math一定要去看看transfer equivalency有没有你们学校的对应课程转换。Purdue poly申就有。exploratory要低于30个可转学分才能申请。
-- 2. Umn建议早申请！早申请早出结果，笔者8.30complete，9.18拿到offer后立马把陆本学校的大部分课给退了，可以不用担心春季因为期末来不及导致叫不出来成绩单。Umn什么都很好，哈哈。
+- 2. Umn建议早申请！早申请早出结果，我8.30complete，9.18拿到offer后立马把陆本学校的大部分课给退了，可以不用担心春季因为期末来不及导致叫不出来成绩单。Umn什么都很好，哈哈。
 - 3. Wisc我本来以为肯定脆拒了，普渡签证啥的都搞定了，然后给我发offer后，我也想了挺久的，主要是我可能更想做偏robotics的传统控制方向的，Purdue相较下来应该是更好的选择。
 
 ***
@@ -652,7 +652,7 @@ DET115(有点低，天天摆大烂的恶果)
 - 就读学校: BJUT + UCSD extension人下人
 - 推荐信：2BJUT老师, 一中科院科研(我觉得都没啥用, 可能就nyu 和Rochester看看)
 - 录取结果：
-○ umn✅, osu✅, Rochester+1w$/ per year✅, wisc✅ (all cs)UIUC math&cs✅ 
+○ umn✅, osu✅, Rochester+1w$/ per year✅, wisc✅ (all cs) UIUC math&cs✅ 
 ○ Umich 寄
 ○ NYU❓, UVA❓
 - 最后去向：UIUC Math&CS
