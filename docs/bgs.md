@@ -763,5 +763,17 @@ DET115(有点低，天天摆大烂的恶果)
 - purdue，upitt转学分很少，陆本100学分只能转30左右，需要三年了，时间成本比较高。umn和wisc转学分都是50多，但是由于学校知名度不高转学人数少，所有的课都是elective, 需要自己提交syllabi去argue；
 - wisc好.
 
+***
+
+### 不愿意透露姓名
+- GPA：3.3+
+- 语言成绩/推荐信/活动：T95；无活动无推荐信
+- 年级：大二
+- 专业：math
+- 就读院校：lgu
+- 选校：umn，psu，osu，ru，uiuc，wisc，umich（全math）
+- 录取结果：umn，uiuc，ru，osu（全math）
+- 最终去向：不愿意透露
+- 感想：lgu的数学honor课真的好难拿gpa
 
 
