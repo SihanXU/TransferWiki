@@ -712,14 +712,14 @@ DET115(有点低，天天摆大烂的恶果)
 ---
 
 ### 雪菜肉丝炒冬笋
-GPA：3.8/4.0，10%
-语言成绩：雅思7/6
-年级：大二
-专业：ee
-选校：UMN OSU PU Rutgers Rice RPI Lehigh Brandeis
-活动：一段实习、一些其他的乱七八糟的
-推荐信：实习公司总工、phy002lecturer、eee103lecturer
-录取结果：
+- GPA：3.8/4.0，10%
+- 语言成绩：雅思7/6
+- 年级：大二
+- 专业：ee
+- 选校：UMN OSU PU Rutgers Rice RPI Lehigh Brandeis
+- 活动：一段实习、一些其他的乱七八糟的
+- 推荐信：实习公司总工、phy002lecturer、eee103lecturer
+- 录取结果：
 - umn physic⭕️
 - osu ece⭕️
 - Rutgers ece❌ physic⭕️
