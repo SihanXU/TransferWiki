@@ -784,4 +784,19 @@ DET115(有点低，天天摆大烂的恶果)
 - 中介没有必要，我是找了中介的，死磕（音译），文书不错，面试培训就是依托，我分到的面试老师上课就是全程英语唠嗑，看运气，分个好老师还不错
 - 纯高考生路线，给大家仅供参考
 
+***
+
+### O泡果奶
+- GPA: 3.3/4.0 均分83.5
+- 语言成绩: 雅思6.5
+- 专业: political science,Econ, applied Econ,international studies, BAIT
+- 选校: UIUC,WISC,OSU,UMN,UW,Brandeis, UTA,Colby,Purdue,Rutgers,墨大,悉尼
+- 就读学校: 双非中美合办finance专业
+- 课外活动: 小厂实习，宾大ILMUNC，一段商赛，各种短跑奖牌（浅浅二级水平），一段research（in progress），社区服务，不知名英语写作大赛国三
+- 推荐信：2
+- 录取结果：UIUC OSU UMN Purdue Rutgers商院 墨大 悉尼
+- 最后去向：UIUC poli sci
+- 感想：语言成绩过线就可以，UTA UW都不怎么收陆本的，香槟转学分非常友好，转了59个基本通识课全都转了，GPA最重要一定要保持高gpa不要像我一样大一摆烂，文书的话建议申社科的还是好好写一写🥹祝大家申请顺利，别焦虑，低gpa也是有学上的
+
+
 
