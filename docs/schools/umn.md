@@ -1,9 +1,5 @@
 # University of Minnesota-Twin Cities
 
-![umn](https://user-images.githubusercontent.com/80454689/197106613-d0ac9bac-afc8-4187-a264-bd110ce59187.png)
-
-***
-
 ![umn](https://user-images.githubusercontent.com/80454689/197106582-93fe7a64-a706-48af-8fce-18d246d300ba.jpg)
 
 ## 学校简介
