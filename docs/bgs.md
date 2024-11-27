@@ -253,18 +253,6 @@
 
 ***
 
-### 不愿意透露姓名
-
-- 23SPRING 大二春转
-- GPA 3.09/4.00  DET125
-- UMN CLA STATS  ad Go gopher!
-- OSU CAS STATS  ad
-
-- 普高陆本无推荐信无活动无论文
-
-
-***
-
 ### 七七
 
 - 23 Spring 陆本CS 大二春转
@@ -275,7 +263,7 @@
 - UIUC CS+Stat rej
 - 最终去向：WISC
 
-结论： 
+- 结论： 
 - OSU： 早申早拿offer，难度不高，但是是很好的学校，没有wisc我就选O！
 - UIUC：别碰CS，会变得不幸！ 非常卡前置课， 但是非CS专业难度不高，建议勇于尝试。
 - WISC：不卡语言！语言过线就行。不卡单科！真的很好，个人感觉比较看重学术能力（GPA、专业课成绩），然后就是文书比较重要。另外，春季wisc的放榜时间为11月的第三个星期五～
@@ -810,8 +798,9 @@ DET115(有点低，天天摆大烂的恶果)
 - 专业：土木 civil engineering
 - 就读院校：大连交通大学
 - 选校+录取结果：
-- UMN✅ OSU✅ UW-seattle-✅ 工院declared，econ也录了 NCSU-✅+honor program UIUC-✅appeal成功
-- WISC-❌appeal失败 Cornell-❌waitlist NU-❓白送申请费 不拒不录 到现在还是不拒不录 离谱了
+- UMN✅  OSU✅    UW-seattle-✅ 工院declared，econ也录了
+- NCSU-✅+honor program    UIUC-✅appeal成功
+- WISC-❌appeal失败       Cornell-❌waitlist   NU-❓白送申请费 不拒不录 到现在还是不拒不录 离谱了
 - 悉尼✅ 墨尔本✅ 澳国立✅
 - 最终去向：UWseattle engineering declared直录
 - 感想：坚持+决心
@@ -826,7 +815,7 @@ DET115(有点低，天天摆大烂的恶果)
 
 ### 伪人
 - GPA：英制80
-- 语言成绩/推荐信/活动：tofel101 三段科研无pub 社团社长
+- 语言成绩/推荐信/活动：Toefl 101  三段科研无pub 社团社长
 - 年级：大二
 - 专业：cs
 - 就读院校：中外合办
